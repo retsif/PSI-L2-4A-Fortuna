@@ -1,7 +1,7 @@
 const dane = {
     kto: "Alejandro Fortuna",
-    jezyk: "Nie ma",
-    dlaczego: "Rip",
+    jezyk: "Dalej nie ma takiego",
+    dlaczego: "Powoli do celu",
     hobby: ["Snowboard", "Sztuki walki"]
 };
 
